@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a Machine Learning Engineer at Enquero (a Genp
 
 ## 🛠️ My Toolkit
 
-![Tools]("https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif")
+![Tools](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)
 
 I leverage a diverse set of tools and platforms to deliver high-impact solutions:
 - **Transformer Models from Hugging Face:** BERT, Llama2/3, Falcon, Mistral
