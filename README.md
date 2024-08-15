@@ -55,7 +55,7 @@ I leverage a diverse set of tools and platforms to deliver high-impact solutions
 
 ![Contact](https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif)
 - **LinkedIn:** [Rounak Saha](https://www.linkedin.com/in/rounak-saha-8b2963133/)
-- **Email:** [rsk.rounak@gmail.com](mailto:rsk.rounak@gmail.com)
+- **Email:** [rounak11.saha@gmail.com](mailto:rounak11.saha@gmail.com)
 
 Feel free to explore my repositories and projects. I'm always open to discussing AI, ML, and collaboration opportunities!
 
