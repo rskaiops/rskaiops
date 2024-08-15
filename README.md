@@ -42,7 +42,7 @@ I leverage a diverse set of tools and platforms to deliver high-impact solutions
 
 ## 🌟 Featured Projects
 
-![Projects](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml6YXg4cnZ2cDJ0cnRmYTVqZWhvZGJlbDNja3F1c3MxOXkxZnlkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif)
+![Projects](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFycHoxYWxiMjBubnJ6cHVhanQ5YjdsdzN3bzF1MDdxOXU0cDl0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z6tx63iyaeAiJETvQp/giphy.gif)
 
 - **[Project 1: Operational Time Reduction with LLMs](#)**
   - Led a core Gen AI project that reduced operational time by more than 74%.
