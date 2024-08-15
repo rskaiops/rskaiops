@@ -56,7 +56,8 @@ I leverage a diverse set of tools and platforms to deliver high-impact solutions
 
 ![Contact](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JxdXdpcTg2ZTVpeGY3OGplaXZ1OTM5eHN0Zm53cGFhNzRmY3UxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AauWy8FQcZyi5t7rfH/giphy.gif)
 - **LinkedIn:** [Rounak Saha](https://www.linkedin.com/in/rounak-saha-8b2963133/)
-- **Email:** [rounak11.saha@gmail.com](mailto:rounak11.saha@gmail.com)
+- **Email:** [rounak11.saha@gmail.co](mailto:rounak11.saha@gmail.com)
+- **Google Scholar** [My Research](https://scholar.google.com/citations?user=g-5SjTIAAAAJ&hl=en) 
 
 Feel free to explore my repositories and projects. I'm always open to discussing AI, ML, and collaboration opportunities!
 
