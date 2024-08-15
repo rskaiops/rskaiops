@@ -39,6 +39,7 @@ I leverage a diverse set of tools and platforms to deliver high-impact solutions
 - **Transformer Models from Hugging Face:** BERT, Llama2/3, Falcon, Mistral
 - **Proprietary Models:** GPT-3.5, GPT-4, Claude 3 Haiku, Claude 3.5 Sonnet, Gemini, Palm
 - **Specializations:** LLMops, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine-tuning
+- **Cloud Platforms:** GCP, AWS, Azure
 
 ## 🌟 Featured Projects
 
