@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Rounak Saha 👋
 
-<!--
-**rskaiops/rskaiops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![AI](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a Machine Learning Engineer at Enquero (a Genpact company), where I specialize in developing cutting-edge AI and machine learning solutions. My work revolves around harnessing the power of Large Language Models (LLMs), Generative AI, Deep Learning, MLOps, and NLP/NLU to drive innovation and deliver impactful results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+- 🔭 **Current Role:** Machine Learning Engineer at [Enquero (a Genpact company)](https://www.enquero.com/)
+- 🌱 **Specializations:**
+  - **Large Language Models (LLMs)**
+  - **Generative AI**
+  - **Deep Learning**
+  - **MLOps**
+  - **Natural Language Processing (NLP) & Natural Language Understanding (NLU)**
+- 🚀 **Technologies I Work With:**
+  - **Langchain**
+  - **Vector DBs:** Chroma, Pinecone, Weviate
+  - **Llama Index**
+  - **Fine-Tuning Techniques:** LORA, QLORA
+  - **Knowledge Graphs:** Neo4J
+- 🛠️ **Tools & Platforms:**
+  - **Azure ML Studio**
+  - **AWS Sagemaker**
+  - **Google Cloud Vertex AI**
+  - **Kubeflow**
+  - **PySpark**
+  - **SQL**
+  - **Apache Airflow**
+- ☁️ **Cloud Expertise:** AWS, Azure, GCP
+
+## 🛠️ My Toolkit
+
+![Tools](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+
+I leverage a diverse set of tools and platforms to deliver high-impact solutions:
+- **Transformer Models from Hugging Face:** BERT, Llama2/3, Falcon, Mistral
+- **Proprietary Models:** GPT-3.5, GPT-4, Claude 3 Haiku, Claude 3.5 Sonnet, Gemini, Palm
+- **Specializations:** LLMops, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine-tuning
+
+## 🌟 Featured Projects
+
+![Projects](https://media.giphy.com/media/3o7aD6W5f1vN7zqKBa/giphy.gif)
+
+- **[Project 1: Operational Time Reduction with LLMs](#)**
+  - Led a core Gen AI project that reduced operational time by more than 74%.
+
+- **[Project 2: Advanced NLP Solutions](#)**
+  - Developed a suite of NLP tools leveraging Transformer models and fine-tuning techniques.
+
+- **[Project 3: Scalable MLOps Pipelines](#)**
+  - Architected and deployed scalable MLOps pipelines using Kubeflow and Airflow.
+
+![Contact](https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif)
+- **LinkedIn:** [Rounak Saha](https://www.linkedin.com/in/rounak-saha-8b2963133/)
+- **Email:** [rsk.rounak@gmail.com](mailto:rsk.rounak@gmail.com)
+
+Feel free to explore my repositories and projects. I'm always open to discussing AI, ML, and collaboration opportunities!
+
+---
+
+*This README file is to provide a snapshot of my professional journey in the AI/ML space. Let's connect and innovate together!*
